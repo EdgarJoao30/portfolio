@@ -39,7 +39,7 @@ abstract: To better estimate the travel time to the most proximate health care f
 tags: [Accessibility, epidemiology, Public health]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

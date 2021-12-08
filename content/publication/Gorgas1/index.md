@@ -51,7 +51,7 @@ abstract: Human movement affects malaria epidemiology at multiple geographical l
 tags: [Human movement, epidemiology, malaria]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

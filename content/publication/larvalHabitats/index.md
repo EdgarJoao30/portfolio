@@ -46,7 +46,7 @@ abstract: In Amazonian Peru, the primary malaria vector, **Nyssorhynchus darling
 tags: [Larvae, Entomology, Malaria, Mosquitoes]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
