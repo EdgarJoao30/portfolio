@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: header.jpg
+    image: open-book.jpg
     image_darken: 1.0
     image_parallax: true
     image_position: center
@@ -27,3 +27,4 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
+Test
