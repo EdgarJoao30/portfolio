@@ -72,4 +72,7 @@ things.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
+*Acknowledgments*
+
 ![](cde-logo.png)
+![](erasmus-logo.png)
