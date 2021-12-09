@@ -71,3 +71,5 @@ I am a Peruvian Environmental Engineer passionate about research on Landscape Ec
 things.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+![](cde-logo.png)
