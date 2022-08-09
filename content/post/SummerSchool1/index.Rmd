@@ -32,7 +32,7 @@ authors:
 - admin
 
 tags:
-- [CDE, summer school, drones, remote sensing]
+- CDE, summer school, drones, remote sensing
 
 categories:
 - CDE
