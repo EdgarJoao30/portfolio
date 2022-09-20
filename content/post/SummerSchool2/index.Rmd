@@ -50,6 +50,12 @@ place Online and was orginized by the department of Geoinformatics at Palacky Ol
 - April 7th: Maps in Literature, visualising names
 - April 8th: Virtual PubQuiz
 
+Cultural differences among societies have produced also differences in the way the world is view in a cartographic way. 
+Atlases are meant to comunicate such view of the world, and use maps as arguments. The differences in the atlases 
+produced in different cultures allows the comparison of different things for the same region, and similar things for 
+different regions. 
 
+The Spring School presented the evolution and importance of maps throughout time and space in history. It also presented 
+how the usage of maps can benefit in the interpretation of non-map related pieces of work, like literature and cinema.
 
 ![Certificate of completion of the Spring School](ss_certificate.png)
